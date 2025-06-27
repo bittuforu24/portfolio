@@ -6,7 +6,6 @@ This site showcases my web development services, projects, skills, and contact o
 
 ## 📌 Live Demo
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8de74fb5-b941-4d45-bd6e-3fdc418563bc/deploy-status)](https://app.netlify.com/projects/calm-moonbeam-bb1f34/deploys) 
-*(Replace with your actual domain or GitHub Pages/Vercel/Netlify deployment link)*
 
 ---
 
