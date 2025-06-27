@@ -1,0 +1,42 @@
+
+	
+#slider{
+	width:500px;
+	top:175px;
+	position:fixed;
+	z-index: 1000;
+}
+   
+#header{ 
+	width: 278px;
+    height: 374px;
+    position: absolute;
+    right: -8px;
+    border: 1px solid #d8d8d8;
+    margin-left: 40px;
+    border-radius: 3px;
+    box-shadow: 0 0 8px grey;
+    background: #fff;
+    padding: 23px;
+}
+
+
+#sidebar{
+	position:absolute;
+	top:18px;
+	left:198px;
+	box-shadow: 0 0 8px gray;
+}
+
+#sidebar1{
+	position:absolute;
+	top:18px;
+	left:198px;
+	box-shadow: 0 0 8px gray;
+}
+
+
+h3{
+	font-family: 'Roboto Slab', serif;
+}
+
