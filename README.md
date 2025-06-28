@@ -56,6 +56,6 @@ I plan to learn React.js and TailwindCSS deeply, build more full-stack projects 
 
 ## 📩 Contact
 
-Created with ❤️ by [Sageer Ansari]  
+Created with ❤️ by Sageer Ansari  
 Email: bittuforu24@email.com  
 GitHub: https://github.com/bittuforu24/portfolio.git
