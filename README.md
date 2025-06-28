@@ -6,7 +6,7 @@ This is a responsive personal portfolio landing page showcasing my skills, servi
 
 ## 🚀 Live Preview
 
-[👉 View Live Site](https://your-netlify-site.netlify.app)
+[👉 View Live Site](https://silver-sunburst-f8c00d.netlify.app/)
 
 ---
 
@@ -14,7 +14,12 @@ This is a responsive personal portfolio landing page showcasing my skills, servi
 
 ```
 /index.html
-/css/style.css
+/style.css
+/bootstrap.min.css
+/bootstrap.min.js
+/contactform.js
+/jquery.min.js
+/main.js
 /img/
 /README.md
 ```
@@ -51,6 +56,6 @@ I plan to learn React.js and TailwindCSS deeply, build more full-stack projects 
 
 ## 📩 Contact
 
-Created with ❤️ by [Your Name]  
-Email: your@email.com  
-GitHub: https://github.com/your-github-profile
+Created with ❤️ by [Sageer Ansari]  
+Email: bittuforu24@email.com  
+GitHub: https://github.com/bittuforu24/portfolio.git
