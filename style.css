@@ -221,3 +221,9 @@ header a:hover{
 	font-size:16px;
 	background:#11499e;
 }
+
+.logo-img {
+  height: 40px;
+  width: 100px;
+  object-fit: cover;   /* crops the square into rectangle */
+}
