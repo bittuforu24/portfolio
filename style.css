@@ -224,6 +224,6 @@ header a:hover{
 
 .logo-img {
   height: 40px;
-  width: 100px;
+  width: 150px;
   object-fit: cover;   /* crops the square into rectangle */
 }
